@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Age Calculator</string>
+    <string name="firstNameLabel">First Name</string>
+    <string name="lastNameLabel">Last Name</string>
+    <string name="dateEntryLabel">Enter your Birth Date</string>
+    <string name="calculateText">Calculate Age</string>
+</resources>
